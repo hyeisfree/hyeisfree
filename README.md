@@ -1,19 +1,6 @@
+<div algin=center>
 ### Hi there 👋
 
-<!--
-**hyeisfree/hyeisfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 멋쟁이사자처럼 부산외대 11기 프론트엔드 아기사자
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 안녕하세요! 김나혜입니다 :)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyeisfree)](https://velog.io/@hyeisfree) 
@@ -33,3 +20,5 @@ Here are some ideas to get you started:
 ![Hits](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeisfree)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
