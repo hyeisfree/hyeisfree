@@ -5,6 +5,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyeisfree)](https://velog.io/@hyeisfree) 
 
 2020.03 ~ 2024.02. 부산외국어대학교 G2융합학부 & 컴퓨터소프트웨어학부
+
 2023.03. ~ 2023.12.멋쟁이사자처럼 11기 프론트엔드 아기사자
 <div align=center>
 
