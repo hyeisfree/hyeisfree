@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+안녕하세요! 김나혜입니다 :)
+
+SNS
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyeisfree)](https://velog.io/@hyeisfree) 
+
 멋쟁이사자처럼 11기 프론트엔드 아기사자
 <div align=center>
 
@@ -28,5 +33,4 @@ Here are some ideas to get you started:
 ![Hits](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Hits](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeisfree)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeisfree)](https://github.com/anuraghazra/github-readme-stats)
