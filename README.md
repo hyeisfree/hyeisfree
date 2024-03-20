@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 안녕하세요! 김나혜입니다 :)
 
-SNS
+<div algin=center>SNS</div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyeisfree)](https://velog.io/@hyeisfree) 
 
 멋쟁이사자처럼 11기 프론트엔드 아기사자
