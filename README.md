@@ -12,7 +12,7 @@
     <h3>👒 Contact 👒</h3>
 	<p>nahye6559@naver.com</p> 
 	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyeisfree)](https://velog.io/@hyeisfree) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyeisfree)](https://velog.io/@hyeisfree) 
 </div>
 
 <div align=center>
